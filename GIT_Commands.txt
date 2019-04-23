@@ -1,0 +1,10 @@
+$ git checkout <Branch_Name>  -- to change branch
+$ git rebase <Branch_Name>    --for rebase
+$ git rebase --abort          -- to stop rebase
+$ git rebase --continue       -- To continue Rebase
+$ git rebase --skip           -- To Skip rebase
+$ clear                       -- To Clear
+$ git pull                    -- To pull the changes from remote
+$ git branch -D feature/2ndBranch    -- For Del
+$ git branch -a       -- show all branch
+$ git branch <Branch_Name>    -- TO Create New Branch
